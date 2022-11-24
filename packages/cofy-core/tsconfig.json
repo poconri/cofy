@@ -1,5 +1,5 @@
 {
-  "extends": "@my/tsconfig/react-library.json",
+  "extends": "@cofy/tsconfig/react-library.json",
   "include": ["."],
   "exclude": ["dist", "build", "node_modules"]
 }

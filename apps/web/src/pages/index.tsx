@@ -1,4 +1,4 @@
-import { Button } from "@my/core";
+import { Button } from "@cofy/core";
 
 export default function Web() {
   return (

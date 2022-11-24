@@ -1,5 +1,5 @@
 {
-  "name": "@my/docs",
+  "name": "@cofy/docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,14 +10,14 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .next"
   },
   "dependencies": {
-    "@my/core": "*",
-    "@my/utils": "*",
+    "@cofy/core": "*",
+    "@cofy/utils": "*",
     "next": "^12.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@my/tsconfig": "*",
+    "@cofy/tsconfig": "*",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
     "eslint-preset-my": "*",

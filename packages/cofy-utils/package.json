@@ -1,5 +1,5 @@
 {
-  "name": "@my/core",
+  "name": "@cofy/utils",
   "version": "0.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -16,10 +16,10 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@my/tsconfig": "*",
-    "eslint-preset-my": "*",
+    "@cofy/tsconfig": "*",
     "@types/react": "^17.0.13",
     "@types/react-dom": "^17.0.8",
+    "eslint-preset-my": "*",
     "react": "^17.0.2",
     "tsup": "^5.10.1",
     "typescript": "^4.5.3"
