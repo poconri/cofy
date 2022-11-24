@@ -1,4 +1,4 @@
 {
-  "extends": "@my/tsconfig/react-app.json",
+  "extends": "@cofy/tsconfig/react-app.json",
   "include": ["src"]
 }

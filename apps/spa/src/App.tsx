@@ -1,6 +1,6 @@
-import { Button } from "@my/core";
-import { Thing } from "@my/theme-kit";
-import "@my/theme-kit/dist/tailwind.css";
+import { Button } from "@cofy/core";
+import { Thing } from "@cofy/theme-kit";
+import "@cofy/theme-kit/dist/tailwind.css";
 import React from "react";
 import "./App.css";
 import logo from "./logo.svg";

@@ -1,5 +1,5 @@
 {
-  "name": "@my/spa",
+  "name": "@cofy/project",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,9 +12,9 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf .dist"
   },
   "dependencies": {
-    "@my/core": "*",
-    "@my/utils": "*",
-    "@my/theme-kit": "*",
+    "@cofy/core": "*",
+    "@cofy/utils": "*",
+    "@cofy/theme-kit": "*",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -30,7 +30,7 @@
     "web-vitals": "^2.1.2"
   },
   "devDependencies": {
-    "@my/tsconfig": "*"
+    "@cofy/tsconfig": "*"
   },
   "eslintConfig": {
     "extends": [

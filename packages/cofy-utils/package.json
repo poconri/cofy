@@ -16,7 +16,7 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@my/tsconfig": "*",
+    "@cofy/tsconfig": "*",
     "@types/react": "^17.0.13",
     "@types/react-dom": "^17.0.8",
     "eslint-preset-my": "*",
